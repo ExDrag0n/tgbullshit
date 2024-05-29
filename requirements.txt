@@ -4,3 +4,4 @@ path
 opencv-python
 pyzbar
 PyQRCode
+opencv-python-headless
