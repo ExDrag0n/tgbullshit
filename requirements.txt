@@ -3,3 +3,4 @@ telebot
 path
 opencv-python
 pyzbar
+PyQRCode
