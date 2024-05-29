@@ -1,0 +1,5 @@
+python-telegram-bot
+telebot
+path
+opencv-python
+pyzbar
