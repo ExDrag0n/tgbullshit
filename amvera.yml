@@ -1,3 +1,4 @@
+---
 meta:
   environment: python
   toolchain:
@@ -6,6 +7,6 @@ meta:
 build:
   requirementsPath: requirements.txt
 run:
-  scriptName: qr_code_telegram_bot
+  scriptName: qr_code_telegram_bot.py
   persistenceMount: /data
   containerPort: 80
